@@ -5,7 +5,7 @@
 # Introduction
 This project focuses on detecting deepfake videos using deep learning techniques. The detection model leverages MTCNN for face detection, ResNext for feature extraction, and other deep learning tools like PyTorch and Gradio for building and deploying the model.
 
-# Features•	Face Detection: 
+# Features
 **•	Face Detection:** Utilizes MTCNN architecture for accurate face detection.
 
 **•	Feature Extraction:** Employs ResNext architecture for robust feature extraction.
